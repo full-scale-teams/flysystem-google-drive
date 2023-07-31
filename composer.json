@@ -1,5 +1,5 @@
 {
-    "name": "nao-pon/flysystem-google-drive",
+    "name": "ctberdon/flysystem-google-drive",
     "description": "Flysystem adapter for Google Drive",
     "license": "MIT",
     "authors": [
@@ -10,8 +10,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "league/flysystem": "~1.0",
-        "google/apiclient": "^2.0",
+        "league/flysystem": "^3.11",
+        "google/apiclient": "^2.0"
         "nao-pon/flysystem-cached-extra": "~1.0"
     },
     "require-dev": {
