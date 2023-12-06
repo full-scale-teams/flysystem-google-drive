@@ -1,11 +1,19 @@
 {
-    "name": "ctberdon/flysystem-google-drive",
+    "name": "gigabooksite/flysystem-google-drive",
     "description": "Flysystem adapter for Google Drive",
     "license": "MIT",
     "authors": [
         {
             "name": "Naoki Sawada",
             "email": "hypweb@gmail.com"
+        },
+        {
+            "name": "Carmencito Berdon",
+            "email": "ctberdon@gmail.com"
+        },
+        {
+            "name": "Terence Jan Serencio",
+            "email": "terenceserencio@gmail.com"
         }
     ],
     "repositories": [
