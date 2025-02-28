@@ -1,5 +1,5 @@
 {
-    "name": "gigabooksite/flysystem-google-drive",
+    "name": "full-scale-teams/flysystem-google-drive",
     "description": "Flysystem adapter for Google Drive",
     "license": "MIT",
     "authors": [
